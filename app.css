@@ -1,0 +1,40 @@
+*,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.todo_app{
+    position: fixed;
+    margin-left: 510px;
+    margin-top: 15px;
+    background-color: pink;
+    width: 300px;
+    height: 800px;
+}
+.innner{ 
+    width: 550px;
+    padding-top: 25px;
+    padding-left: 20px;
+}
+
+#input {
+     font-size: 21px;
+     width: 180px;
+     height: 35px;
+     font-weight: 50px;
+}
+#add_btn{
+    width: 35px;
+    height: 40px;
+    background-color:  red;
+}
+#rem_btn{
+    width: 35px;
+    height: 40px;
+    background-color:  green;
+}
+#in{
+    margin-left: 510px;
+    margin-top: 500px;
+}
